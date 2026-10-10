@@ -1,0 +1,12 @@
+format: jb-book
+root: intro
+
+chapters:
+  - file: profil
+    title: Profil Mahasiswa
+
+  - file: proyek/klasifikasi-lahan
+    title: Klasifikasi Tutupan Lahan Jawa Timur
+
+  - file: proyek/analisis-data
+    title: Analisis Data
