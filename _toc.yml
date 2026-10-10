@@ -5,8 +5,6 @@ chapters:
   - file: profil
     title: Profil Mahasiswa
 
-  - file: proyek/klasifikasi-lahan
+  - file: LULC JAWA TIMUR/klasifikasi_lahan_jatim_revisi.ipynb
     title: Klasifikasi Tutupan Lahan Jawa Timur
 
-  - file: proyek/analisis-data
-    title: Analisis Data
